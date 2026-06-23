@@ -367,18 +367,6 @@ The code requires:
 
 ---
 
-# Required Functions
-
-The project includes several helper functions:
-
-```
-calculate_linear_phase_ver2()
-ecgsd_extractor_ver1()
-calculate_dtw_phase()
-dtw_ver2()
-psi_triangular()
-```
-
 External dependency:
 
 ```
@@ -412,4 +400,3 @@ This project presents a **model‑based ECG segmentation framework** that:
 The result is a **physiology‑aware segmentation algorithm** capable of accurately detecting ECG wave boundaries across multiple heartbeats.
 :::
 
-که معمولاً باعث می‌شود پروژه برای **مقاله یا رزومه تحقیقاتی خیلی قوی‌تر دیده شود.**
