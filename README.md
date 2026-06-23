@@ -1,4 +1,8 @@
-:::writing
+<img width="1366" height="643" alt="untitled1" src="https://github.com/user-attachments/assets/d1fdb1f7-0eed-4de5-8eec-f406922520b7" />![<img width="1366" height="643" alt="untitled2" src="https://github.com/user-attachments/assets/8613ccbc-1f79-4465-9dec-52295f4cb220" /><img width="1366" height="643" alt="untitled" src="https://github.com/user-attachments/assets/783ee007-d3b7-456b-8fa9-fbb0177e3fc7" />
+Uploading untitled1.svg…]()
+
+
+:::
 # ECG Wave Segmentation using Phase-Domain Gaussian Modeling
 
 MATLAB implementation for **automatic segmentation of ECG waves (P, QRS, and T)** using a **phase‑domain Gaussian mixture model**.
